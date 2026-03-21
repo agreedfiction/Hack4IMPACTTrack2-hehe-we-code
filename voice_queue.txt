@@ -1,0 +1,1 @@
+Detected Fresh Tomato. Status is PASSED. Value is 40 rupees.
